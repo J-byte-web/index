@@ -1,5 +1,5 @@
 H1{TEXT-ALIGN:LEFT;
-COLOR:blueviolet}
+COLOR:black}
 #vanta{
     z-index:0;
     position:absolute;
@@ -8,3 +8,5 @@ COLOR:blueviolet}
     width:100%;
     height:100%;
 }
+main{
+    position:relative;}
